@@ -1,5 +1,5 @@
 # Forest Reverie Journey
-Exploring World's Iconic Forests Virtually
+Explore World's Iconic Forests Virtually
 ## Introduction
 Forest Reverie Journeys is a beautifully designed website that combines stunning visuals, informative content, and a seamless user experience to bring the majesty of forests to your screen. Whether you're a nature enthusiast, an armchair traveler, or simply curious about the world's most incredible woodlands, this website is your gateway to a virtual journey like no other.
 ## Features
