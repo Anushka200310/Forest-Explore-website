@@ -13,6 +13,25 @@ Adventure: Unleash your inner adventurer in the Adventure section, where you'll 
 
 Responsive Design: Whether you're using a desktop, tablet, or mobile device, Forest Reverie Journeys adapts seamlessly to your screen size, ensuring a captivating experience across all platforms.
 
+## Getting started
+
+Clone the project
+
+```bash
+  git clone https://github.com/Anushka200310/Forest-Explore-website.git
+```
+
+Go to the project directory
+
+```bash
+  cd Forest-Explore-website
+```
+
+Open the index.html file in your preferred web browser
+
+That's it! You're now ready to embark on your virtual forest journey.
+
+
 ## Usage
 
 Home: The landing page welcomes you with the mesmerizing title "Forest Reverie Journeys," setting the tone for your exploration.
@@ -20,4 +39,5 @@ Home: The landing page welcomes you with the mesmerizing title "Forest Reverie J
 Explore: Click on any forest image in the Explore section to discover in-depth information about each forest's history, geography, and ecological significance on its respective Wikipedia page.
 
 Adventure: Immerse yourself in the Adventure section, where you'll find captivating two-sentence tales of exploration and intrigue in the world's most stunning forests.
+
 
