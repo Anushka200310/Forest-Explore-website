@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+html{
+  scroll-behavior: smooth;
+}
+.font{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* style the navbar */
+
+.bg{
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 2px 10px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 18px );
+   -webkit-backdrop-filter: blur( 18px );
+}
+
+.ml{
+    margin-left: 35%;
+}
+.pl{
+    padding-left: 5%;
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 3; 
+}
+
+/* style the hero section */
+
+.background{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-image: url(./img/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}
+
+  .hero {
+    position: relative;
+    z-index: 2;
+    padding-top: 80px;
+    margin-top: 50vh; 
+    transform: translateY(15%); 
+  }
+  .btn{
+    border-radius: 25px;
+    padding: 5px 50px;
+    background: linear-gradient(#63D471, #304538);
+    border: none;
+    outline: none;
+  }
+  .explore{
+    text-decoration: none;
+    color: azure;
+  }
+  .explore:hover{
+    color: beige;
+  }
+
+/* style discover section */
+
+  .section-background{
+    width: 100%;
+    background-image: url(./img/background2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 4%;  
+  }
+
+  .text{
+    color: rgb(56, 73, 56);
+  }
+  .width-text{
+    width: 700px;
+  }
+  .sub-heading{
+    padding-bottom: 10px;
+  }
+  .img{
+    filter: drop-shadow(10px 10px 8px rgb(134, 129, 129));
+    padding-bottom: 7%;
+  }
+  .album-card{
+    transition: all 0.3s ease;
+  }
+  .album-card:hover{
+    filter: drop-shadow(10px 10px 8px rgb(134, 129, 129));
+  }
+
+/* style adventure section */
+
+  .f-size{
+    font-size: 2rem;
+  }
+  .adv-background{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./img/background-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 4%; 
+    overflow: hidden; 
+  }
+  .acc-background{
+    background: transparent;
+  }
+  .accordion{
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 2;
+  }
+
+/* footer */
+
+  .footer-bg{
+    width: 100%;
+    background-color: #c8d2c9;
+    padding-top: 4%;
+    padding-bottom: 4%;
+  }
+
+  
