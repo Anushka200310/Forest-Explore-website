@@ -38,7 +38,7 @@ Home: The landing page welcomes you with the mesmerizing title "Forest Reverie J
 
 Explore: Click on any forest image in the Explore section to discover in-depth information about each forest's history, geography, and ecological significance on its respective Wikipedia page.
 
-Adventure: Immerse yourself in the Adventure section, where you'll find captivating two-sentence tales of exploration and intrigue in the world's most stunning forests.
+Adventure: Immerse yourself in the Adventure section, where you'll find captivating tales of exploration and intrigue in the world's most stunning forests.
 
 
 
