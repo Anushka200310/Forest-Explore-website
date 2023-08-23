@@ -1,4 +1,4 @@
-# Forest Reverie Journey
+# Forest Reverie Journeys
 Explore World's Iconic Forests Virtually
 
 ## Introduction
