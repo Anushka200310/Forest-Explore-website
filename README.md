@@ -12,7 +12,7 @@ https://anushka200310.github.io/Forest-Explore-website/
 
 - Explore: Dive into the Explore section and click on each forest image to be instantly transported to the corresponding Wikipedia page, where you can learn more about the unique features, flora, and fauna of each forest.
 
-- Adventure: Unleash your inner adventurer in the Adventure section, where you'll find tantalizing snippets of two-sentence adventures waiting to be lived in some of the most extraordinary forests.
+- Adventure: Unleash your inner adventurer in the Adventure section, where you'll find tantalizing snippets of adventures waiting to be lived in some of the most extraordinary forests.
 
 - Responsive Design: Whether you're using a desktop, tablet, or mobile device, Forest Reverie Journeys adapts seamlessly to your screen size, ensuring a captivating experience across all platforms.
 
